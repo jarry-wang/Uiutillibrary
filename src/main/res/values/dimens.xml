@@ -1,0 +1,25 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="top_actionbar_height">42dp</dimen>
+    <dimen name="buttom_actionbar_height">38dp</dimen>
+
+    <dimen name="folder_cover_size">72dp</dimen>
+    <dimen name="recyclerview_fast_scroller_width">16dp</dimen>
+
+    <dimen name="__picker_iwf_actionBarSize">48dip</dimen>
+    <dimen name="__picker_item_photo_size">80dip</dimen>
+    <dimen name="__picker_item_camera_size">80dip</dimen>
+    <dimen name="__picker_item_directory_height">80dp</dimen>
+
+    <dimen name="content_textsize_l">17sp</dimen>
+    <dimen name="content_textsize_ml">16sp</dimen>
+    <dimen name="content_textsize_m">15sp</dimen>
+    <dimen name="content_textsize_ms">14sp</dimen>
+    <dimen name="content_textsize_ss">13sp</dimen>
+    <dimen name="content_textsize_s">12sp</dimen>
+</resources>

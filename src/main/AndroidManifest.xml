@@ -1,0 +1,13 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.join.android">
+
+    <application android:allowBackup="true" android:label="@string/app_name"
+        android:supportsRtl="true">
+        <service
+            android:name=".net.appupdate.VersionUpdateService"
+            android:enabled="true"
+            android:exported="true"/>
+    </application>
+
+
+</manifest>
